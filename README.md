@@ -39,6 +39,10 @@ Check out these GitHub repositories related to .NET:
 - [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - sample web application from Microsoft
 - [eShopOnDapr](https://github.com/dotnet-architecture/eShopOnDapr) - sample event application from Microsoft
 
+## Other
+
+- [Developer Paths](https://roadmap.sh) - Developer and skill based roadmaps
+
 ## Get Involved
 
 Feel free to contribute to these lists! If you discover new content creators or find valuable resources, add them to the appropriate Markdown files following the guidelines.
